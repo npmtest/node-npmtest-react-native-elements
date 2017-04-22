@@ -1,0 +1,191 @@
+<svg height="3006" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3006" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 00:59:02 +0000  1796251 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 00:59:02 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 00:59:02 +0000    17264 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 00:59:02 +0000    64638 bytes  build/bundle.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 00:59:02 +0000    28817 bytes  coverage/clover.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 00:59:02 +0000   121657 bytes  coverage/coverage-final.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 00:59:02 +0000    16512 bytes  coverage/lcov-report/avatar/Avatar.js.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 00:59:02 +0000     3545 bytes  coverage/lcov-report/avatar/index.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 00:59:02 +0000     5213 bytes  coverage/lcov-report/badge/badge.js.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 00:59:02 +0000     3531 bytes  coverage/lcov-report/badge/index.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 00:59:02 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 00:59:02 +0000    21144 bytes  coverage/lcov-report/buttons/Button.js.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 00:59:02 +0000    12781 bytes  coverage/lcov-report/buttons/ButtonGroup.js.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 00:59:02 +0000     4245 bytes  coverage/lcov-report/buttons/index.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 00:59:02 +0000    13770 bytes  coverage/lcov-report/checkbox/CheckBox.js.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 00:59:02 +0000     3562 bytes  coverage/lcov-report/checkbox/index.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 00:59:02 +0000     3701 bytes  coverage/lcov-report/config/colors.js.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 00:59:02 +0000     4799 bytes  coverage/lcov-report/config/fonts.js.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 00:59:02 +0000     4192 bytes  coverage/lcov-report/config/index.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 00:59:02 +0000    16579 bytes  coverage/lcov-report/containers/Card.js.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 00:59:02 +0000     3538 bytes  coverage/lcov-report/containers/index.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 00:59:02 +0000     3812 bytes  coverage/lcov-report/divider/Divider.js.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 00:59:02 +0000     3536 bytes  coverage/lcov-report/divider/index.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 00:59:02 +0000     8378 bytes  coverage/lcov-report/form/FormInput.js.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 00:59:02 +0000     6026 bytes  coverage/lcov-report/form/FormLabel.js.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 00:59:02 +0000     5407 bytes  coverage/lcov-report/form/FormValidationMessage.\</tspan>
+<tspan x="10" y="442">js.html</tspan>
+<tspan x="10" y="458"> 26.  2017-04-22 00:59:02 +0000     4942 bytes  coverage/lcov-report/form/index.html</tspan>
+<tspan x="10" y="474"> 27.  2017-04-22 00:59:02 +0000     6552 bytes  coverage/lcov-report/grid/Col.js.html</tspan>
+<tspan x="10" y="490"> 28.  2017-04-22 00:59:02 +0000     7351 bytes  coverage/lcov-report/grid/Grid.js.html</tspan>
+<tspan x="10" y="506"> 29.  2017-04-22 00:59:02 +0000     6550 bytes  coverage/lcov-report/grid/Row.js.html</tspan>
+<tspan x="10" y="522"> 30.  2017-04-22 00:59:02 +0000     4852 bytes  coverage/lcov-report/grid/index.html</tspan>
+<tspan x="10" y="538"> 31.  2017-04-22 00:59:02 +0000     6320 bytes  coverage/lcov-report/helpers/getIconType.js.html</tspan>
+<tspan x="10" y="554"> 32.  2017-04-22 00:59:02 +0000     4237 bytes  coverage/lcov-report/helpers/index.html</tspan>
+<tspan x="10" y="570"> 33.  2017-04-22 00:59:02 +0000    11023 bytes  coverage/lcov-report/helpers/normalizeText.js.ht\</tspan>
+<tspan x="10" y="586">ml</tspan>
+<tspan x="10" y="602"> 34.  2017-04-22 00:59:02 +0000    11101 bytes  coverage/lcov-report/icons/Icon.js.html</tspan>
+<tspan x="10" y="618"> 35.  2017-04-22 00:59:02 +0000     3546 bytes  coverage/lcov-report/icons/index.html</tspan>
+<tspan x="10" y="634"> 36.  2017-04-22 00:59:02 +0000    14215 bytes  coverage/lcov-report/index.html</tspan>
+<tspan x="10" y="650"> 37.  2017-04-22 00:59:02 +0000    18362 bytes  coverage/lcov-report/input/Search.js.html</tspan>
+<tspan x="10" y="666"> 38.  2017-04-22 00:59:02 +0000     3552 bytes  coverage/lcov-report/input/index.html</tspan>
+<tspan x="10" y="682"> 39.  2017-04-22 00:59:02 +0000     4448 bytes  coverage/lcov-report/list/List.js.html</tspan>
+<tspan x="10" y="698"> 40.  2017-04-22 00:59:02 +0000    32241 bytes  coverage/lcov-report/list/ListItem.js.html</tspan>
+<tspan x="10" y="714"> 41.  2017-04-22 00:59:02 +0000     4214 bytes  coverage/lcov-report/list/index.html</tspan>
+<tspan x="10" y="730"> 42.  2017-04-22 00:59:02 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
+<tspan x="10" y="746"> 43.  2017-04-22 00:59:02 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
+<tspan x="10" y="762"> 44.  2017-04-22 00:59:02 +0000    14148 bytes  coverage/lcov-report/pricing/PricingCard.js.html</tspan>
+<tspan x="10" y="778"> 45.  2017-04-22 00:59:02 +0000     3553 bytes  coverage/lcov-report/pricing/index.html</tspan>
+<tspan x="10" y="794"> 46.  2017-04-22 00:59:02 +0000    50298 bytes  coverage/lcov-report/slider/Slider.js.html</tspan>
+<tspan x="10" y="810"> 47.  2017-04-22 00:59:02 +0000     3552 bytes  coverage/lcov-report/slider/index.html</tspan>
+<tspan x="10" y="826"> 48.  2017-04-22 00:59:02 +0000    19062 bytes  coverage/lcov-report/social/SocialIcon.js.html</tspan>
+<tspan x="10" y="842"> 49.  2017-04-22 00:59:02 +0000     3567 bytes  coverage/lcov-report/social/index.html</tspan>
+<tspan x="10" y="858"> 50.  2017-04-22 00:59:02 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
+<tspan x="10" y="874"> 51.  2017-04-22 00:59:02 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
+<tspan x="10" y="890"> 52.  2017-04-22 00:59:02 +0000     7087 bytes  coverage/lcov-report/text/Text.js.html</tspan>
+<tspan x="10" y="906"> 53.  2017-04-22 00:59:02 +0000     3526 bytes  coverage/lcov-report/text/index.html</tspan>
+<tspan x="10" y="922"> 54.  2017-04-22 00:59:02 +0000    13751 bytes  coverage/lcov-report/tile/FeaturedTile.js.html</tspan>
+<tspan x="10" y="938"> 55.  2017-04-22 00:59:02 +0000    14532 bytes  coverage/lcov-report/tile/Tile.js.html</tspan>
+<tspan x="10" y="954"> 56.  2017-04-22 00:59:02 +0000     4233 bytes  coverage/lcov-report/tile/index.html</tspan>
+<tspan x="10" y="970"> 57.  2017-04-22 00:59:02 +0000    17867 bytes  coverage/lcov.info</tspan>
+<tspan x="10" y="986"> 58.  2017-04-22 00:59:02 +0000      776 bytes  default_installation.md</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-22 00:59:02 +0000      594 bytes  docs/API/HTML_style_headings.md</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-22 00:59:02 +0000     3856 bytes  docs/API/avatar.md</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-22 00:59:02 +0000      674 bytes  docs/API/badge.md</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-22 00:59:02 +0000     2763 bytes  docs/API/button_group.md</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-22 00:59:02 +0000     2680 bytes  docs/API/buttons.md</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-22 00:59:02 +0000     2170 bytes  docs/API/card.md</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-22 00:59:02 +0000     2679 bytes  docs/API/checkbox.md</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-22 00:59:02 +0000      258 bytes  docs/API/divider.md</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-22 00:59:02 +0000     1949 bytes  docs/API/forms.md</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-22 00:59:02 +0000     2466 bytes  docs/API/grid.md</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-22 00:59:02 +0000     2295 bytes  docs/API/icons.md</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-22 00:59:02 +0000     8725 bytes  docs/API/lists.md</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-22 00:59:02 +0000     1422 bytes  docs/API/pricing.md</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-22 00:59:02 +0000     2336 bytes  docs/API/searchbar.md</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-22 00:59:02 +0000     3289 bytes  docs/API/side_menu.md</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-22 00:59:02 +0000     3939 bytes  docs/API/slider.md</tspan>
+<tspan x="10" y="1258"> 75.  2017-04-22 00:59:02 +0000     2142 bytes  docs/API/social_icons.md</tspan>
+<tspan x="10" y="1274"> 76.  2017-04-22 00:59:02 +0000     3397 bytes  docs/API/tabbar.md</tspan>
+<tspan x="10" y="1290"> 77.  2017-04-22 00:59:02 +0000     2998 bytes  docs/API/tile.md</tspan>
+<tspan x="10" y="1306"> 78.  2017-04-22 00:59:02 +0000      776 bytes  docs/Installation/default_installation.md</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-22 00:59:02 +0000      482 bytes  docs/Installation/using-with-crna-or-expo.md</tspan>
+<tspan x="10" y="1338"> 80.  2017-04-22 00:59:02 +0000   226553 bytes  docs/images/avatar_all.png</tspan>
+<tspan x="10" y="1354"> 81.  2017-04-22 00:59:02 +0000    39134 bytes  docs/images/avatar_with_icons.png</tspan>
+<tspan x="10" y="1370"> 82.  2017-04-22 00:59:02 +0000   278418 bytes  docs/images/avatar_with_images.png</tspan>
+<tspan x="10" y="1386"> 83.  2017-04-22 00:59:02 +0000    40479 bytes  docs/images/avatar_with_initials.png</tspan>
+<tspan x="10" y="1402"> 84.  2017-04-22 00:59:02 +0000     4575 bytes  docs/images/react.svg</tspan>
+<tspan x="10" y="1418"> 85.  2017-04-22 00:59:02 +0000    32448 bytes  docs/images/react_native_elements_logo.png</tspan>
+<tspan x="10" y="1434"> 86.  2017-04-22 00:59:02 +0000    12332 bytes  docs/images/slider_screenshot.png</tspan>
+<tspan x="10" y="1450"> 87.  2017-04-22 00:59:02 +0000    17625 bytes  docs/index.md</tspan>
+<tspan x="10" y="1466"> 88.  2017-04-22 00:59:02 +0000      942 bytes  mkdocs.yml</tspan>
+<tspan x="10" y="1482"> 89.  2017-04-22 00:59:02 +0000     2186 bytes  package.json</tspan>
+<tspan x="10" y="1498"> 90.  2017-04-22 00:59:02 +0000     3519 bytes  src/avatar/Avatar.js</tspan>
+<tspan x="10" y="1514"> 91.  2017-04-22 00:59:02 +0000     2264 bytes  src/avatar/__tests__/Avatar.js</tspan>
+<tspan x="10" y="1530"> 92.  2017-04-22 00:59:02 +0000     7591 bytes  src/avatar/__tests__/__snapshots__/Avatar.js.sna\</tspan>
+<tspan x="10" y="1546">p</tspan>
+<tspan x="10" y="1562"> 93.  2017-04-22 00:59:02 +0000      806 bytes  src/badge/__tests__/__snapshots__/badge.js.snap</tspan>
+<tspan x="10" y="1578"> 94.  2017-04-22 00:59:02 +0000      853 bytes  src/badge/__tests__/badge.js</tspan>
+<tspan x="10" y="1594"> 95.  2017-04-22 00:59:02 +0000      764 bytes  src/badge/badge.js</tspan>
+<tspan x="10" y="1610"> 96.  2017-04-22 00:59:02 +0000     5085 bytes  src/buttons/Button.js</tspan>
+<tspan x="10" y="1626"> 97.  2017-04-22 00:59:02 +0000     3589 bytes  src/buttons/ButtonGroup.js</tspan>
+<tspan x="10" y="1642"> 98.  2017-04-22 00:59:02 +0000     4412 bytes  src/buttons/__tests__/Button.js</tspan>
+<tspan x="10" y="1658"> 99.  2017-04-22 00:59:02 +0000     1488 bytes  src/buttons/__tests__/ButtonGroup.js</tspan>
+<tspan x="10" y="1674">100.  2017-04-22 00:59:02 +0000     3901 bytes  src/buttons/__tests__/__snapshots__/Button.js.sn\</tspan>
+<tspan x="10" y="1690">ap</tspan>
+<tspan x="10" y="1706">101.  2017-04-22 00:59:02 +0000    11204 bytes  src/buttons/__tests__/__snapshots__/ButtonGroup.\</tspan>
+<tspan x="10" y="1722">js.snap</tspan>
+<tspan x="10" y="1738">102.  2017-04-22 00:59:02 +0000     3232 bytes  src/checkbox/CheckBox.js</tspan>
+<tspan x="10" y="1754">103.  2017-04-22 00:59:02 +0000     1564 bytes  src/checkbox/__tests__/CheckBox.js</tspan>
+<tspan x="10" y="1770">104.  2017-04-22 00:59:02 +0000     3217 bytes  src/checkbox/__tests__/__snapshots__/CheckBox.js\</tspan>
+<tspan x="10" y="1786">.snap</tspan>
+<tspan x="10" y="1802">105.  2017-04-22 00:59:02 +0000      416 bytes  src/config/colors.js</tspan>
+<tspan x="10" y="1818">106.  2017-04-22 00:59:02 +0000      746 bytes  src/config/fonts.js</tspan>
+<tspan x="10" y="1834">107.  2017-04-22 00:59:02 +0000     4350 bytes  src/containers/Card.js</tspan>
+<tspan x="10" y="1850">108.  2017-04-22 00:59:02 +0000     1782 bytes  src/containers/__tests__/Card.js</tspan>
+<tspan x="10" y="1866">109.  2017-04-22 00:59:02 +0000     7896 bytes  src/containers/__tests__/__snapshots__/Card.js.s\</tspan>
+<tspan x="10" y="1882">nap</tspan>
+<tspan x="10" y="1898">110.  2017-04-22 00:59:02 +0000      406 bytes  src/divider/Divider.js</tspan>
+<tspan x="10" y="1914">111.  2017-04-22 00:59:02 +0000      695 bytes  src/divider/__tests__/Divider.js</tspan>
+<tspan x="10" y="1930">112.  2017-04-22 00:59:02 +0000      499 bytes  src/divider/__tests__/__snapshots__/Divider.js.s\</tspan>
+<tspan x="10" y="1946">nap</tspan>
+<tspan x="10" y="1962">113.  2017-04-22 00:59:02 +0000     1690 bytes  src/form/FormInput.js</tspan>
+<tspan x="10" y="1978">114.  2017-04-22 00:59:02 +0000     1164 bytes  src/form/FormLabel.js</tspan>
+<tspan x="10" y="1994">115.  2017-04-22 00:59:02 +0000     1016 bytes  src/form/FormValidationMessage.js</tspan>
+<tspan x="10" y="2010">116.  2017-04-22 00:59:02 +0000     1208 bytes  src/form/__tests__/FormInput.js</tspan>
+<tspan x="10" y="2026">117.  2017-04-22 00:59:02 +0000      727 bytes  src/form/__tests__/FormLabel.js</tspan>
+<tspan x="10" y="2042">118.  2017-04-22 00:59:02 +0000      838 bytes  src/form/__tests__/FormValidationMessage.js</tspan>
+<tspan x="10" y="2058">119.  2017-04-22 00:59:02 +0000      567 bytes  src/form/__tests__/__snapshots__/FormInput.js.sn\</tspan>
+<tspan x="10" y="2074">ap</tspan>
+<tspan x="10" y="2090">120.  2017-04-22 00:59:02 +0000      522 bytes  src/form/__tests__/__snapshots__/FormLabel.js.sn\</tspan>
+<tspan x="10" y="2106">ap</tspan>
+<tspan x="10" y="2122">121.  2017-04-22 00:59:02 +0000      501 bytes  src/form/__tests__/__snapshots__/FormValidationM\</tspan>
+<tspan x="10" y="2138">essage.js.snap</tspan>
+<tspan x="10" y="2154">122.  2017-04-22 00:59:02 +0000     1144 bytes  src/grid/Col.js</tspan>
+<tspan x="10" y="2170">123.  2017-04-22 00:59:02 +0000     1399 bytes  src/grid/Grid.js</tspan>
+<tspan x="10" y="2186">124.  2017-04-22 00:59:02 +0000     1142 bytes  src/grid/Row.js</tspan>
+<tspan x="10" y="2202">125.  2017-04-22 00:59:02 +0000      860 bytes  src/grid/__tests__/Col.js</tspan>
+<tspan x="10" y="2218">126.  2017-04-22 00:59:02 +0000      940 bytes  src/grid/__tests__/Grid.js</tspan>
+<tspan x="10" y="2234">127.  2017-04-22 00:59:02 +0000      861 bytes  src/grid/__tests__/Row.js</tspan>
+<tspan x="10" y="2250">128.  2017-04-22 00:59:02 +0000      263 bytes  src/grid/__tests__/__snapshots__/Col.js.snap</tspan>
+<tspan x="10" y="2266">129.  2017-04-22 00:59:02 +0000      261 bytes  src/grid/__tests__/__snapshots__/Grid.js.snap</tspan>
+<tspan x="10" y="2282">130.  2017-04-22 00:59:02 +0000      260 bytes  src/grid/__tests__/__snapshots__/Row.js.snap</tspan>
+<tspan x="10" y="2298">131.  2017-04-22 00:59:02 +0000     1235 bytes  src/helpers/getIconType.js</tspan>
+<tspan x="10" y="2314">132.  2017-04-22 00:59:02 +0000     2553 bytes  src/helpers/normalizeText.js</tspan>
+<tspan x="10" y="2330">133.  2017-04-22 00:59:02 +0000     2344 bytes  src/icons/Icon.js</tspan>
+<tspan x="10" y="2346">134.  2017-04-22 00:59:02 +0000      891 bytes  src/icons/__tests__/Icon.js</tspan>
+<tspan x="10" y="2362">135.  2017-04-22 00:59:02 +0000     1290 bytes  src/icons/__tests__/__snapshots__/Icon.js.snap</tspan>
+<tspan x="10" y="2378">136.  2017-04-22 00:59:02 +0000     1457 bytes  src/index.js</tspan>
+<tspan x="10" y="2394">137.  2017-04-22 00:59:02 +0000     4489 bytes  src/input/Search.js</tspan>
+<tspan x="10" y="2410">138.  2017-04-22 00:59:02 +0000      992 bytes  src/input/__tests__/Search.js</tspan>
+<tspan x="10" y="2426">139.  2017-04-22 00:59:02 +0000     4185 bytes  src/input/__tests__/__snapshots__/Search.js.snap</tspan>
+<tspan x="10" y="2442">140.  2017-04-22 00:59:02 +0000      669 bytes  src/list/List.js</tspan>
+<tspan x="10" y="2458">141.  2017-04-22 00:59:02 +0000     9581 bytes  src/list/ListItem.js</tspan>
+<tspan x="10" y="2474">142.  2017-04-22 00:59:02 +0000      585 bytes  src/list/__tests__/List.js</tspan>
+<tspan x="10" y="2490">143.  2017-04-22 00:59:02 +0000     1748 bytes  src/list/__tests__/ListItem.js</tspan>
+<tspan x="10" y="2506">144.  2017-04-22 00:59:02 +0000      348 bytes  src/list/__tests__/__snapshots__/List.js.snap</tspan>
+<tspan x="10" y="2522">145.  2017-04-22 00:59:02 +0000     8684 bytes  src/list/__tests__/__snapshots__/ListItem.js.sna\</tspan>
+<tspan x="10" y="2538">p</tspan>
+<tspan x="10" y="2554">146.  2017-04-22 00:59:02 +0000     3385 bytes  src/pricing/PricingCard.js</tspan>
+<tspan x="10" y="2570">147.  2017-04-22 00:59:02 +0000     1104 bytes  src/pricing/__tests__/PricingCard.js</tspan>
+<tspan x="10" y="2586">148.  2017-04-22 00:59:02 +0000     5654 bytes  src/pricing/__tests__/__snapshots__/PricingCard.\</tspan>
+<tspan x="10" y="2602">js.snap</tspan>
+<tspan x="10" y="2618">149.  2017-04-22 00:59:02 +0000       72 bytes  src/sidemenu/SideMenu.js</tspan>
+<tspan x="10" y="2634">150.  2017-04-22 00:59:02 +0000    14231 bytes  src/slider/Slider.js</tspan>
+<tspan x="10" y="2650">151.  2017-04-22 00:59:02 +0000     1029 bytes  src/slider/__tests__/Slider.js</tspan>
+<tspan x="10" y="2666">152.  2017-04-22 00:59:02 +0000     4839 bytes  src/slider/__tests__/__snapshots__/Slider.js.sna\</tspan>
+<tspan x="10" y="2682">p</tspan>
+<tspan x="10" y="2698">153.  2017-04-22 00:59:02 +0000     4608 bytes  src/social/SocialIcon.js</tspan>
+<tspan x="10" y="2714">154.  2017-04-22 00:59:02 +0000     1334 bytes  src/social/__tests__/SocialIcon.js</tspan>
+<tspan x="10" y="2730">155.  2017-04-22 00:59:02 +0000     3551 bytes  src/social/__tests__/__snapshots__/SocialIcon.js\</tspan>
+<tspan x="10" y="2746">.snap</tspan>
+<tspan x="10" y="2762">156.  2017-04-22 00:59:02 +0000       89 bytes  src/tabs/Tab.js</tspan>
+<tspan x="10" y="2778">157.  2017-04-22 00:59:02 +0000       84 bytes  src/tabs/Tabs.js</tspan>
+<tspan x="10" y="2794">158.  2017-04-22 00:59:02 +0000     1245 bytes  src/text/Text.js</tspan>
+<tspan x="10" y="2810">159.  2017-04-22 00:59:02 +0000     2301 bytes  src/text/__tests__/Text.js</tspan>
+<tspan x="10" y="2826">160.  2017-04-22 00:59:02 +0000      870 bytes  src/text/__tests__/__snapshots__/Text.js.snap</tspan>
+<tspan x="10" y="2842">161.  2017-04-22 00:59:02 +0000     3157 bytes  src/tile/FeaturedTile.js</tspan>
+<tspan x="10" y="2858">162.  2017-04-22 00:59:02 +0000     3252 bytes  src/tile/Tile.js</tspan>
+<tspan x="10" y="2874">163.  2017-04-22 00:59:02 +0000     1240 bytes  src/tile/__tests__/FeaturedTile.js</tspan>
+<tspan x="10" y="2890">164.  2017-04-22 00:59:02 +0000     1636 bytes  src/tile/__tests__/Tile.js</tspan>
+<tspan x="10" y="2906">165.  2017-04-22 00:59:02 +0000     6854 bytes  src/tile/__tests__/__snapshots__/FeaturedTile.js\</tspan>
+<tspan x="10" y="2922">.snap</tspan>
+<tspan x="10" y="2938">166.  2017-04-22 00:59:02 +0000     3745 bytes  src/tile/__tests__/__snapshots__/Tile.js.snap</tspan>
+<tspan x="10" y="2954">167.  2017-04-22 00:59:02 +0000      482 bytes  using-with-crna-or-expo.md</tspan>
+<tspan x="10" y="2970">168.  2017-04-22 00:59:02 +0000     1417 bytes  webpack.config.js</tspan>
+<tspan x="10" y="2986">169.  2017-04-22 00:59:02 +0000   190929 bytes  yarn.lock</tspan>
+</text>
+</svg>
